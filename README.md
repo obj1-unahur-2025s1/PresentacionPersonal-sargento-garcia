@@ -10,4 +10,4 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo 2 gatos, uno se llama Milo y el otro Malvado
