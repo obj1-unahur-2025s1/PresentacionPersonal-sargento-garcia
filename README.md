@@ -16,4 +16,4 @@
 - Tengo mi mejor amigo perruno llamado Ozzy
 
 ## El mejor amigo OZZY
-![pequeñoOzzy](./assets/9144305c-b61e-4d66-967b-b6c0d864297b)
+![pequeñoOzzy](https://github.com/user-attachments/assets/d25517b9-8228-4212-a1ab-eb76f5be22c4)
